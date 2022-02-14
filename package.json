@@ -1,6 +1,6 @@
 {
   "name": "captcha-genjs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Captcha generator with verification by secret key",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,10 @@
     "generator",
     "nodejs",
     "js",
-    "autocaptcha"
+    "autocaptcha",
+    "recaptcha",
+    "antibot",
+    "antibot-captcha"
   ],
   "author": "SirNed",
   "license": "MIT",
