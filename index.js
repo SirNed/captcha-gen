@@ -2,8 +2,8 @@ const crypto = require("crypto");
 const Canvas = require("canvas");
 
 class CaptchaJs {
-    width = 50;
-    height = 150;
+    width = 150;
+    height = 50;
     color = "#000000";
     size = 25;
     alphabet = {alphabet: "ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789", len: 6};

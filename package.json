@@ -1,6 +1,6 @@
 {
   "name": "captcha-genjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Captcha generator with verification by secret key",
   "main": "index.js",
   "scripts": {
