@@ -1,5 +1,5 @@
 {
-  "name": "captcha-generator",
+  "name": "captcha-gen",
   "version": "1.0.0",
   "description": "Captcha generator with verification by secret key",
   "main": "index.js",
